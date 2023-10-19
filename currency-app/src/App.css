@@ -1,0 +1,70 @@
+
+
+#root
+{
+  margin: 0 auto;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: rgba(39, 39, 39, 1);
+  background-image: radial-gradient(circle, rgba(71, 71, 71, 1) 0%, rgba(29, 29, 29, 1) 100%),  url(https://img.icons8.com/android/2x/happy.png);
+  background-size: auto;
+  background-position: left top;
+  background-repeat: repeat;
+  color: aliceblue;
+}
+
+.half {
+
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  border-radius: 20px 20px 20px 20px;
+  /* background-color: rgb(0, 0, 0); */
+  text-align: center;
+
+}
+
+.col
+{
+  
+}
+
+.list-group-item
+{
+  white-space: nowrap;
+  overflow: hidden; 
+  text-overflow: ellipsis;
+}
+
+.list-group
+{
+  background-color: transparent;
+}
+
+.transform
+{
+  margin-top: 50vh; 
+  margin-bottom: 0; 
+  width: 120%; 
+  height: 50vh; 
+  opacity: 0.7;
+  border-radius: 20px 20px 20px 20px;
+  background-color: rgb(107, 107, 107);
+  -webkit-transform: scale(1.2);
+-moz-transform: scale(1.2);
+-ms-transform: scale(1.2);
+-o-transform: scale(1.2);
+transform: scale(1.2);
+}
+
+.calculator
+{
+  padding-top: 10%;
+  padding-right: 70%;
+}
+
+.my-text
+{
+  font-size: xx-large;
+}

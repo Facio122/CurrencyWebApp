@@ -1,0 +1,20 @@
+.my-input
+{
+  height: 40px;
+  width: 100px;
+  font-size: medium;
+  margin-left: 26px;
+}
+
+.my-select
+{
+    height: 40px;
+    width: 70px;
+    font-size: medium;
+}
+.words
+{
+    padding-right: 50%;
+    font-size: 20px;
+    
+}
